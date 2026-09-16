@@ -37,6 +37,8 @@ Provide details about the dataset used:
 - Key features/columns used  
 - Any preprocessing or cleaning steps  
 
+Dataset: financial_dataset_SME.csv
+
 ---
 
 <h2>Technologies Used</h2>
@@ -111,15 +113,10 @@ Summarize your findings, insights, and visualizations:
 ## Credits
 
 - **Collaborators:** Name – [GitHub Profile](https://github.com/USERNAME)  
-- **Dataset Source:** [Link](https://link-to-dataset.com)  
-- **Tutorials / References:** [Link](https://link.com)  
+- **Dataset Source:** [Kaggle Link](https://www.kaggle.com/datasets/examsgovt/sme-financial-decision-risk-prediction-dataset?select=financial_dataset_SME.csv)  
 
 ---
 
 ## License
 
-This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/) – feel free to use and modify it.  
-
----
-
-<p align="center"><strong>Thanks for visiting! 🚀</strong></p>
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
