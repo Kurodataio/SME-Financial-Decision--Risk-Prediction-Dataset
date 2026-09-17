@@ -113,7 +113,7 @@ Summarize your findings, insights, and visualizations:
 
 ## Credits
 
-- **Collaborators:** Name – [GitHub Profile](https://github.com/USERNAME)  
+<!-- - **Collaborators:** Name – [GitHub Profile](https://github.com/USERNAME)   -->
 - **Dataset Source:** [Kaggle Link](https://www.kaggle.com/datasets/examsgovt/sme-financial-decision-risk-prediction-dataset?select=financial_dataset_SME.csv)  
 
 ---
