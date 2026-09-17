@@ -101,8 +101,7 @@ Instructions for using the project:
 
 Summarize your findings, insights, and visualizations:
 
-- Describe the key trends and patterns you observed  
-- Show charts, graphs, and tables  ![Graph](img1.png)
+- ![Plot image](images/distribution_of_numeric_values.png) 
 - Include important observations or correlations found in the data  
 
 ---
