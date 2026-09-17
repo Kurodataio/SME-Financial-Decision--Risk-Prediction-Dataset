@@ -33,7 +33,8 @@ SME Financial Decision- Risk Prediction Dataset
 - The dataet is the SME Financial Decision- Risk Prediction Dataset
 - The size of the dataset is 15106 rows and 33 columns
 
-Dataset: financial_dataset_SME.csv
+Dataset: Finanical_data_sme.csv
+
 
 ---
 
