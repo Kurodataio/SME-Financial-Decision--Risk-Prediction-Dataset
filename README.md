@@ -85,10 +85,6 @@ Instructions for using the project:
 2. Run each cell sequentially to reproduce the analysis  
 3. Visualizations and results will be generated automatically  
 
-Include screenshots of your visualizations if available:  
-
-![Visualization Example](assets/images/screenshot.png)  
-
 ---
 
 ## Analysis & Visualizations 
