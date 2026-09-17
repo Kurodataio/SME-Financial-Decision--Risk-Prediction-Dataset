@@ -2,7 +2,7 @@
 SME Financial Decision- Risk Prediction Dataset
 
 
-[Notebook Link](https://github.com/Kurodataio/SME-Financial-Decision--Risk-Prediction-Dataset/sme-fd-risk-prediction.ipynb)  
+[Notebook Link](https://github.com/Kurodataio/SME-Financial-Decision--Risk-Prediction-Dataset/blob/main/sme-fd-risk-prediction.ipynb)  
 
 ---
 
