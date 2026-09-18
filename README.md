@@ -21,10 +21,9 @@ SME Financial Decision- Risk Prediction Dataset
 ---
 
 ## Overview
-
-- **Motivation:** Why did you choose this dataset or problem?  
-- **Objective:** What question(s) are you trying to answer through this analysis?  
-- **Learning Outcomes:** What did you learn while working on this project?  
+- Analyse the SME Financial decision data to evaluate loan performance across SME sectors
+- Explore observable correlations
+- What data drive insights are shown in the data
 
 ---
 
