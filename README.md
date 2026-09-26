@@ -23,7 +23,7 @@ SME Financial Decision- Risk Prediction Dataset
 ## Overview
 - Analyse the SME Financial decision data to evaluate loan performance across SME sectors
 - Explore observable correlations
-- What data drive insights are shown in the data
+- What data driven insights are shown in the data
 
 ---
 
@@ -96,8 +96,8 @@ Instructions for using the project:
 ## Analysis & Visualizations 
 
 Summarize your findings, insights, and visualizations:
-
 - ![Plot approval_vs_distress_by_sector](images/approval_vs_distress_by_sector.png)
+
 
 ---
 
@@ -112,8 +112,8 @@ Summarize your findings, insights, and visualizations:
 
 ## Credits
 
-<!-- - **Collaborators:** Name – [GitHub Profile](https://github.com/USERNAME)   -->
 - **Dataset Source:** [Kaggle Link](https://www.kaggle.com/datasets/examsgovt/sme-financial-decision-risk-prediction-dataset?select=financial_dataset_SME.csv)  
+- **AI Cerdits:** Gemini – [Gemini app](https://gemini.google.com/app) 
 
 ---
 
