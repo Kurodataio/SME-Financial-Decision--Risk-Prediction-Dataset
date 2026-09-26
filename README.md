@@ -97,9 +97,7 @@ Instructions for using the project:
 
 Summarize your findings, insights, and visualizations:
 
-- ![Plot approval_vs_distress_by_sector](images/approval_vs_distress_by_sector.png) 
-- Include important observations or correlations found in the data  
-- approval_vs_distress_by_sector.png
+- ![Plot approval_vs_distress_by_sector](images/approval_vs_distress_by_sector.png)
 
 ---
 
