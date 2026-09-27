@@ -97,7 +97,7 @@ Instructions for using the project:
 
 Summarize your findings, insights, and visualizations:
 - ![Plot approval_vs_distress_by_sector](images/approval_vs_distress_by_sector.png)
-
+- ![Plot capital_by_sector](images/capital_by_sector.png)
 
 ---
 
@@ -113,7 +113,7 @@ Summarize your findings, insights, and visualizations:
 ## Credits
 
 - **Dataset Source:** [Kaggle Link](https://www.kaggle.com/datasets/examsgovt/sme-financial-decision-risk-prediction-dataset?select=financial_dataset_SME.csv)  
-- **AI Cerdits:** Gemini – [Gemini app](https://gemini.google.com/app) 
+- **AI Credits:** Gemini – [Gemini app](https://gemini.google.com/app)
 
 ---
 
