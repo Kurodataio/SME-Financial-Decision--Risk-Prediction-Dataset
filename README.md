@@ -96,9 +96,9 @@ Instructions for using the project:
 ## Analysis & Visualizations 
 
 Summarize your findings, insights, and visualizations:
-- ![Plot approval_vs_distress_by_sector](images/approval_vs_distress_by_sector.png)
 - ![Plot capital_by_sector](images/capital_by_sector.png)
-
+- ![Plot profitability_by_sector](images/profitability_by_sector.png)
+- ![Plot approval_vs_distress_by_sector](images/approval_vs_distress_by_sector.png)
 ---
 
 ## Conclusion 
