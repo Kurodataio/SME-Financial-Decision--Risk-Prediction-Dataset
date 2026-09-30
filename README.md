@@ -104,6 +104,8 @@ Summarize your findings, insights, and visualizations:
 ![Plot risk_by_sector](images/risk_by_sector.png)
 - Loan Approval Rate vs Financial distress
 ![Plot approval_vs_distress_by_sector](images/approval_vs_distress_by_sector.png)
+- LCorrelation Matrix
+![Plot correlation_matrix2](images/correlation_matrix2.png)
 
 ---
 
