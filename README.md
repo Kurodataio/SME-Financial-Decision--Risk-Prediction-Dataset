@@ -40,7 +40,7 @@ Dataset: Finanical_data_sme.csv
 <h2>Technologies Used</h2>
 
 <ul>
-  <li><strong>Languages & Libraries:</strong> Python, Pandas, NumPy, Matplotlib, Seaborn, Scipy, sklearn, statsmodels</li>
+  <li><strong>Languages & Libraries:</strong> Python, Pandas, NumPy, Matplotlib, Seaborn</li>
   <li><strong>Tools:</strong> Jupyter Notebook, VS Code, Git, GitHub</li>
 </ul>
 
@@ -50,9 +50,6 @@ Dataset: Finanical_data_sme.csv
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
   <img src="https://img.shields.io/badge/-Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn">
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/statsmodels-4C8CBF?style=for-the-badge&logo=python&logoColor=white" alt="statsmodels">
 </p>
 
 <P>
@@ -104,7 +101,7 @@ Summarize your findings, insights, and visualizations:
 ![Plot risk_by_sector](images/risk_by_sector.png)
 - Loan Approval Rate vs Financial distress
 ![Plot approval_vs_distress_by_sector](images/approval_vs_distress_by_sector.png)
-- LCorrelation Matrix
+- Correlation Matrix
 ![Plot correlation_matrix2](images/correlation_matrix2.png)
 
 ---
