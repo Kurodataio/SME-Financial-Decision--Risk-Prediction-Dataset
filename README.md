@@ -1,8 +1,7 @@
 # SME-Financial-Decision--Risk-Prediction-Dataset
 SME Financial Decision- Risk Prediction Dataset
 
-
-[Notebook Link](https://github.com/Kurodataio/SME-Financial-Decision--Risk-Prediction-Dataset/blob/main/sme-fd-risk-prediction.ipynb)  
+[Notebook Link](https://github.com/Kurodataio/SME-Financial-Decision-Risk-Prediction-Dataset/blob/main/sme-fd-risk-prediction.ipynb) 
 
 ---
 
@@ -100,6 +99,7 @@ Summarize your findings, insights, and visualizations:
 - Risk Profile by Sector
 ![Plot risk_by_sector](images/risk_by_sector.png)
 - Loan Approval Rate vs Financial distress
+-- This obviously looks wrong. Further review is needed
 ![Plot approval_vs_distress_by_sector](images/approval_vs_distress_by_sector.png)
 - Correlation Matrix
 ![Plot correlation_matrix2](images/correlation_matrix2.png)
