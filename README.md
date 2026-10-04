@@ -109,6 +109,7 @@ Summarize your findings, insights, and visualizations:
 ## Conclusion 
 - Technology has the highest risk profile of the 5 sectors assessed. It also has the highest capital requirement.
 - Services has the lowest risk profile however it has the second highest capital requirement
+- There is a strong negative correlation between `Literacy_Credit_Knowledge` / `Literacy_Accounting` and `Financial_Distress`. In other words improved financial literacy decreases financial distress
 <!-- - Summarize the outcome of your analysis  
 - What are the main insights or takeaways?  
 - How could this analysis inform decision-making?  
