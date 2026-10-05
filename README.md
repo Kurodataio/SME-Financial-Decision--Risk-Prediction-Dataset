@@ -1,7 +1,7 @@
 # SME-Financial-Decision--Risk-Prediction-Dataset
 SME Financial Decision- Risk Prediction Dataset
 
-[Notebook Link](https://github.com/Kurodataio/SME-Financial-Decision-Risk-Prediction-Dataset/blob/main/sme-fd-risk-prediction.ipynb) 
+[Notebook Link](https://github.com/Kurodataio/SME-Financial-Decision--Risk-Prediction-Dataset/blob/main/sme-fd-risk-prediction.ipynb) 
 
 ---
 
@@ -110,6 +110,8 @@ Summarize your findings, insights, and visualizations:
 - Technology has the highest risk profile of the 5 sectors assessed. It also has the highest capital requirement.
 - Services has the lowest risk profile however it has the second highest capital requirement
 - There is a strong negative correlation between `Literacy_Credit_Knowledge` / `Literacy_Accounting` and `Financial_Distress`. In other words improved financial literacy decreases financial distress
+- Strong positive correlation between Liquidity Stability and Profitability Index.
+<!-- - Positive correlation between `Decision_Loan_Approval` and `Literacy_Accounting` -->
 <!-- - Summarize the outcome of your analysis  
 - What are the main insights or takeaways?  
 - How could this analysis inform decision-making?  
