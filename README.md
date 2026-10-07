@@ -90,8 +90,6 @@ Instructions for using the project:
 ---
 
 ## Analysis & Visualizations 
-
-Summarize your findings, insights, and visualizations:
 - Average Capital Index by Sector
 ![Plot capital_by_sector](images/capital_by_sector.png)
 - Profitability Index by Sector
@@ -112,6 +110,7 @@ Summarize your findings, insights, and visualizations:
 - There is a strong negative correlation between `Literacy_Credit_Knowledge` / `Literacy_Accounting` and `Financial_Distress`. In other words improved financial literacy decreases financial distress.
 - Strong positive correlation between `Liquidity_Stability` and `Profitability_Index`.
 - Positive correlation between `Decision_Loan_Approval` and `Literacy_Accounting`.
+- `Risk_Mitigation` vs `Literacy_Credit_Knowledge` has a negatuve (-0.23) correlation. This seems counter intuitive if correct.
 <!-- - Summarize the outcome of your analysis  
 - What are the main insights or takeaways?  
 - How could this analysis inform decision-making?  
