@@ -101,6 +101,8 @@ Instructions for using the project:
 ![Plot approval_vs_distress_by_sector](images/approval_vs_distress_by_sector.png)
 - Correlation Matrix
 ![Plot correlation_matrix2](images/correlation_matrix2.png)
+-- There are no strong positive correlations for Financial distress.
+-- In fact Financial distress has mild negative correlations with Literacy_Credit_Knowledge, Literacy_Accounting, Literacy_Credit_Knowledge, Liquidity_Stability, Profitability_Index and Capital_Scale_index
 
 ---
 
