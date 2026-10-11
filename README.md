@@ -1,4 +1,4 @@
-# SME-Financial-Decision--Risk-Prediction-Dataset
+# SME-Financial-Decision-Risk-Prediction-Dataset
 SME Financial Decision- Risk Prediction Dataset
 
 [Notebook Link](https://github.com/Kurodataio/SME-Financial-Decision--Risk-Prediction-Dataset/blob/main/sme-fd-risk-prediction.ipynb) 
@@ -97,12 +97,12 @@ Instructions for using the project:
 - Risk Profile by Sector
 ![Plot risk_by_sector](images/risk_by_sector.png)
 - Loan Approval Rate vs Financial distress
--- This obviously looks wrong. Further review is needed
+  - The Financial distress has two values (0 & 1) hence the average is indicative of a predominance of 0 values
 ![Plot approval_vs_distress_by_sector](images/approval_vs_distress_by_sector.png)
 - Correlation Matrix
 ![Plot correlation_matrix2](images/correlation_matrix2.png)
--- There are no strong positive correlations for Financial distress.
--- In fact Financial distress has mild negative correlations with Literacy_Credit_Knowledge, Literacy_Accounting, Literacy_Credit_Knowledge, Liquidity_Stability, Profitability_Index and Capital_Scale_index
+  - There are no strong positive correlations for Financial distress.
+  - In fact Financial distress has mild negative correlations with Literacy_Credit_Knowledge, Literacy_Accounting, Literacy_Credit_Knowledge, Liquidity_Stability, Profitability_Index and Capital_Scale_index
 
 ---
 
