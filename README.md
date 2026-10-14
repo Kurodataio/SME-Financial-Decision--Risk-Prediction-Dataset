@@ -113,6 +113,8 @@ Instructions for using the project:
 - Strong positive correlation between `Liquidity_Stability` and `Profitability_Index`.
 - Positive correlation between `Decision_Loan_Approval` and `Literacy_Accounting`.
 - `Risk_Mitigation` vs `Literacy_Credit_Knowledge` has a negatuve (-0.23) correlation. This seems counter intuitive if correct.
+- A recommendation is to use Financial Literacy Scores (accounting and forecasting metrics) in the loan approval models to reduce default risks
+
 <!-- - Summarize the outcome of your analysis  
 - What are the main insights or takeaways?  
 - How could this analysis inform decision-making?  
