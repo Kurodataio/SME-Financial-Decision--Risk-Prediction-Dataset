@@ -103,22 +103,19 @@ Instructions for using the project:
 ![Plot correlation_matrix2](images/correlation_matrix2.png)
   - There are no strong positive correlations for Financial distress.
   - In fact Financial distress has mild negative correlations with Literacy_Credit_Knowledge, Literacy_Accounting, Literacy_Credit_Knowledge, Liquidity_Stability, Profitability_Index and Capital_Scale_index
+  - There is a strong negative correlation between `Literacy_Credit_Knowledge` / `Literacy_Accounting` and `Financial_Distress`. In other words improved financial literacy decreases financial distress.
+  - Strong positive correlation between `Liquidity_Stability` and `Profitability_Index`.
+  - Positive correlation between `Decision_Loan_Approval` and `Literacy_Accounting`.
+  - `Risk_Mitigation` vs `Literacy_Credit_Knowledge` has a negatuve (-0.23) correlation. This seems counter intuitive if correct.
 
 ---
 
 ## Conclusion 
 - Technology has the highest risk profile of the 5 sectors assessed. It also has the highest capital requirement.
 - Services has the lowest risk profile however it has the second highest capital requirement.
-- There is a strong negative correlation between `Literacy_Credit_Knowledge` / `Literacy_Accounting` and `Financial_Distress`. In other words improved financial literacy decreases financial distress.
-- Strong positive correlation between `Liquidity_Stability` and `Profitability_Index`.
-- Positive correlation between `Decision_Loan_Approval` and `Literacy_Accounting`.
-- `Risk_Mitigation` vs `Literacy_Credit_Knowledge` has a negatuve (-0.23) correlation. This seems counter intuitive if correct.
 - A recommendation is to use Financial Literacy Scores (accounting and forecasting metrics) in the loan approval models to reduce default risks
+- SME Age does not make an SME more creditworthy. Capital Scale Index correlates with Lender loan approvals, suggesting larger SMEs are preferred by Lenders.
 
-<!-- - Summarize the outcome of your analysis  
-- What are the main insights or takeaways?  
-- How could this analysis inform decision-making?  
-- Recommendations or next steps for further analysis   -->
 
 ---
 
